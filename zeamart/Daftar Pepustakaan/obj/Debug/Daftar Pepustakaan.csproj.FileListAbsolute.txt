@@ -1,0 +1,30 @@
+C:\Users\765365\source\repos\Daftar Pepustakaan\Daftar Pepustakaan\bin\Debug\Daftar Pepustakaan.exe.config
+C:\Users\765365\source\repos\Daftar Pepustakaan\Daftar Pepustakaan\bin\Debug\Daftar Pepustakaan.exe
+C:\Users\765365\source\repos\Daftar Pepustakaan\Daftar Pepustakaan\bin\Debug\Daftar Pepustakaan.pdb
+C:\Users\765365\source\repos\Daftar Pepustakaan\Daftar Pepustakaan\bin\Debug\MySql.Data.dll
+C:\Users\765365\source\repos\Daftar Pepustakaan\Daftar Pepustakaan\bin\Debug\Google.Protobuf.dll
+C:\Users\765365\source\repos\Daftar Pepustakaan\Daftar Pepustakaan\bin\Debug\MySql.Data.xml
+C:\Users\765365\source\repos\Daftar Pepustakaan\Daftar Pepustakaan\obj\Debug\Daftar Pepustakaan.csproj.AssemblyReference.cache
+C:\Users\765365\source\repos\Daftar Pepustakaan\Daftar Pepustakaan\obj\Debug\Daftar_Pepustakaan.Form1.resources
+C:\Users\765365\source\repos\Daftar Pepustakaan\Daftar Pepustakaan\obj\Debug\Daftar_Pepustakaan.Properties.Resources.resources
+C:\Users\765365\source\repos\Daftar Pepustakaan\Daftar Pepustakaan\obj\Debug\Daftar Pepustakaan.csproj.GenerateResource.cache
+C:\Users\765365\source\repos\Daftar Pepustakaan\Daftar Pepustakaan\obj\Debug\Daftar Pepustakaan.csproj.CoreCompileInputs.cache
+C:\Users\765365\source\repos\Daftar Pepustakaan\Daftar Pepustakaan\obj\Debug\Daftar Pepustakaan.csproj.CopyComplete
+C:\Users\765365\source\repos\Daftar Pepustakaan\Daftar Pepustakaan\obj\Debug\Daftar Pepustakaan.exe
+C:\Users\765365\source\repos\Daftar Pepustakaan\Daftar Pepustakaan\obj\Debug\Daftar Pepustakaan.pdb
+C:\Users\765365\source\repos\Daftar Pepustakaan\Daftar Pepustakaan\obj\Debug\Daftar_Pepustakaan.Dashboard.resources
+D:\tugas\UKK\Inventory\Daftar Pepustakaan\Daftar Pepustakaan\bin\Debug\Daftar Pepustakaan.exe.config
+D:\tugas\UKK\Inventory\Daftar Pepustakaan\Daftar Pepustakaan\bin\Debug\Daftar Pepustakaan.exe
+D:\tugas\UKK\Inventory\Daftar Pepustakaan\Daftar Pepustakaan\bin\Debug\Daftar Pepustakaan.pdb
+D:\tugas\UKK\Inventory\Daftar Pepustakaan\Daftar Pepustakaan\bin\Debug\Google.Protobuf.dll
+D:\tugas\UKK\Inventory\Daftar Pepustakaan\Daftar Pepustakaan\bin\Debug\MySql.Data.xml
+D:\tugas\UKK\Inventory\Daftar Pepustakaan\Daftar Pepustakaan\obj\Debug\Daftar Pepustakaan.csproj.AssemblyReference.cache
+D:\tugas\UKK\Inventory\Daftar Pepustakaan\Daftar Pepustakaan\obj\Debug\Daftar_Pepustakaan.Dashboard.resources
+D:\tugas\UKK\Inventory\Daftar Pepustakaan\Daftar Pepustakaan\obj\Debug\Daftar_Pepustakaan.Form1.resources
+D:\tugas\UKK\Inventory\Daftar Pepustakaan\Daftar Pepustakaan\obj\Debug\Daftar_Pepustakaan.Properties.Resources.resources
+D:\tugas\UKK\Inventory\Daftar Pepustakaan\Daftar Pepustakaan\obj\Debug\Daftar Pepustakaan.csproj.GenerateResource.cache
+D:\tugas\UKK\Inventory\Daftar Pepustakaan\Daftar Pepustakaan\obj\Debug\Daftar Pepustakaan.csproj.CoreCompileInputs.cache
+D:\tugas\UKK\Inventory\Daftar Pepustakaan\Daftar Pepustakaan\obj\Debug\Daftar Pepustakaan.csproj.CopyComplete
+D:\tugas\UKK\Inventory\Daftar Pepustakaan\Daftar Pepustakaan\obj\Debug\Daftar Pepustakaan.exe
+D:\tugas\UKK\Inventory\Daftar Pepustakaan\Daftar Pepustakaan\obj\Debug\Daftar Pepustakaan.pdb
+D:\tugas\UKK\Inventory\Daftar Pepustakaan\Daftar Pepustakaan\obj\Debug\Daftar Pepustakaan.csproj.SuggestedBindingRedirects.cache
